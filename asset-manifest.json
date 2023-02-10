@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Capstone-project/static/css/main.84e7036e.css",
+    "main.js": "/Capstone-project/static/js/main.19107343.js",
+    "index.html": "/Capstone-project/index.html",
+    "main.84e7036e.css.map": "/Capstone-project/static/css/main.84e7036e.css.map",
+    "main.19107343.js.map": "/Capstone-project/static/js/main.19107343.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84e7036e.css",
+    "static/js/main.19107343.js"
+  ]
+}
